@@ -3,12 +3,13 @@
   "version": "1.0.0",
   "description": "Learning to create a qr code generator",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Wolfiestein/qr-generator.git"
+    "url": "https://github.com/Wolfiestein/2.4-QR-Code-Project.git"
   },
   "keywords": [
     "qr-code-generator"
