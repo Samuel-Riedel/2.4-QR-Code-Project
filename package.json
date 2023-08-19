@@ -1,0 +1,22 @@
+{
+  "name": "2.4-qr-code-project",
+  "version": "1.0.0",
+  "description": "Learning to create a qr code generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wolfiestein/qr-generator.git"
+  },
+  "keywords": [
+    "qr-code-generator"
+  ],
+  "author": "samuel riedel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wolfiestein/qr-generator/issues"
+  },
+  "homepage": "https://github.com/Wolfiestein/qr-generator#readme"
+}
